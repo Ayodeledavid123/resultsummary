@@ -146,9 +146,6 @@ img{
         display: flex;
         flex-direction: column;
     }
-    .box1, .box2{
-        width: 100%;
-    }
 
   }
   
